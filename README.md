@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yalo
 - 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning Aqua Security
+- 🌱 I’m currently working at Aqua Security
 - 💞️ I’m looking to collaborate on CWPP and CSPM
 - 📫 How to reach me yalo.thomas@gmail.com
 
