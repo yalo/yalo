@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yalo
 - 👀 I’m interested in DevSecOps
-- 🌱 I’m currently working at Aqua Security
-- 💞️ I’m looking to collaborate on CWPP and CSPM
+- 🌱 I’m currently working at xMigrate
+- 💞️ I’m looking to collaborate on AI-Ops, Observability, CWPP and CSPM
 - 📫 How to reach me yalo.thomas@gmail.com
 
 <!---
