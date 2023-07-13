@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yalo
-- 👀 I’m interested in DevSecOps
+- 👀 I’m interested in Web3
 - 🌱 I’m currently working at Dhiway
 - 💞️ I’m looking to collaborate on Web 3, Blockchain, SSI, DID
 - 📫 How to reach me yalo.thomas@gmail.com
